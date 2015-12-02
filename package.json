@@ -1,0 +1,21 @@
+{
+  "name": "writing_tracker",
+  "version": "1.0.0",
+  "description": "It tracks your writing",
+  "main": "tracker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "writing",
+    "quantified",
+    "self"
+  ],
+  "author": "Leonardo Bighi",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^6.0.1",
+    "moment": "^2.10.6",
+    "word-count": "^0.2.1"
+  }
+}
